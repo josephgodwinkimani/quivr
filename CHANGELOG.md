@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.0.299 (2024-08-19)
+
+## What's Changed
+* fix: Update Supabase configuration by @StanGirard in https://github.com/QuivrHQ/quivr/pull/3014
+* Delete Porter Application theodo-backend by @porter-deployment-app in https://github.com/QuivrHQ/quivr/pull/3022
+* Delete Porter Application theodo-frontend by @porter-deployment-app in https://github.com/QuivrHQ/quivr/pull/3023
+
+
+**Full Changelog**: https://github.com/QuivrHQ/quivr/compare/v0.0.298...v0.0.299
+
 ## 0.0.298 (2024-08-16)
 
 ## What's Changed
